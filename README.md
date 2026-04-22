@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-- 📊 Focada em **Anãlise de Dados (Data Analysis)**
+- 📊 Focada em **Análise de Dados (Data Analysis)**
 - 🐍 A aprender **Python, SQL e Machine Learning**
 - 🤖 Júnior em **AI-driven Web Development** (criação de websites com IA)
 - 📈 Interesse em transformar dados e tecnologia em soluções reais
