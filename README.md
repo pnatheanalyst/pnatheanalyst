@@ -84,7 +84,6 @@
 
 <p align="center">
 
-![AI](https://img.shields.io/badge/AI%20Driven-Enabled-blueviolet?style=flat-square)
 ![Lofi](https://img.shields.io/badge/Study%20Vibes-Lofi-blue?style=flat-square)
 ![Focus](https://img.shields.io/badge/Deep%20Work-Focus-success?style=flat-square)
 
