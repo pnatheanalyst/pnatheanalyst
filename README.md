@@ -44,7 +44,7 @@
 
 ## 📂 Projetos em destaque
 
-- 📊 Roadmap em Data Analysis
+- 📊 PNA Chatbot
 - 🌐 Websites criados com IA (AI-assisted web projects)
 
 ---
