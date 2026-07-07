@@ -45,6 +45,7 @@
 ## 📂 Projetos em destaque
 
 - 📊 PNA Chatbot
+- 📊 Análise de Dados em um Ginásio
 - 🌐 Websites criados com IA (AI-assisted web projects)
 
 ---
