@@ -44,7 +44,6 @@
 
 - 🛡️ **Network & Security Lab:** Projetos práticos e automação de segurança de redes em Python
 - 🤖 **PNA Chatbot:** Solução automatizada inteligente de interação
-- 🌐 **AI-Driven Web Projects:** Websites rápidos e funcionais desenvolvidos com suporte de IA
 
 ---
 
