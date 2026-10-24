@@ -59,7 +59,6 @@
 
 - Construir um portfólio robusto no GitHub focado em Cibersegurança e Ferramentas em Python
 - Contribuir para o desenvolvimento de infraestruturas digitais seguras e resilientes
-- Ingressar num Mestrado no Reino Unido focado em **Cyber Security**
 
 ---
 
